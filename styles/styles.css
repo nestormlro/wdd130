@@ -5,6 +5,7 @@ main {
 
 nav {
     background-color: #333;
+    padding: 10px;
 }
 
 nav a {
